@@ -1,0 +1,34 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.chat-container {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #dee2e6;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.message-time {
+    font-size: 0.8rem;
+    color: gray;
+}
+
+.input-group {
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    padding: 0 20px;
+}
+
+.refresh-button {
+    margin-bottom: 20px;
+}

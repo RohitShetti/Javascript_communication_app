@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    /* background-image: url('360_F_236195116_IWbsVnjfNpwfioW6eHgIXoIqlif9ZXei.jpg')/  */
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #343a40;
+    margin-bottom: 50px;
+}
+.welcome-message {
+    text-align: center;
+    margin: 20px 0;
+    color: #007bff;
+}
+.module {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    margin: 10px 0; 
+}
